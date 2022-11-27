@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2cb237af951311107f4444c69de82c72" label="NeedIt" max_length="40" name="x_58872_needit_x_58872_needit" type="collection">
+        <element label="My Custom Table" max_length="40" name="my_custom_table" type="integer"/>
+        <element label="New field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
