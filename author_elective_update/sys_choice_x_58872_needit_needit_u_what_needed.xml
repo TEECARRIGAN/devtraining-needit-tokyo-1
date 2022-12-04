@@ -104,16 +104,16 @@
             <label>Administration 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>6</sequence>
+            <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-12-03 18:43:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b25b96a9f1a311107f447924a3dcaeb9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-03 18:43:37</sys_updated_on>
+            <sys_updated_on>2022-12-04 00:24:05</sys_updated_on>
             <value>administration 1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -124,17 +124,37 @@
             <label>Administration 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-12-03 18:43:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>765b96a9f1a311107f447924a3dcaebb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-04 00:24:05</sys_updated_on>
+            <value>administration 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-04 00:24:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c649a765f1e711107f447924a3dcae62</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-03 18:43:37</sys_updated_on>
-            <value>administration 2</value>
+            <sys_updated_on>2022-12-04 00:24:05</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
